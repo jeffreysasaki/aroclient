@@ -1,4 +1,4 @@
 aroclient
 =========
 
-Android Client for ARO
+Android Server and Client for ATT ARO
